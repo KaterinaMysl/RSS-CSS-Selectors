@@ -1,0 +1,11 @@
+export const BASE_10 = 10;
+export const DEFAULT_LEVEL = 0;
+export const ANIMATION_INTERVAL = 80;
+export const RESULT_CLEAR_INTERVAL = 2000;
+export const LEVEL_TRANSITION_INTERVAL = 1500;
+export const DEFAULT_EXPECTED_ELEMENTS = 0;
+export const CONGRATULATIONS_TEXT = 'Congratulations!';
+export const TRY_AGAIN_TEXT = 'Try again.';
+export const GREAT_TEXT = 'Great!';
+export const TAG_VERTICAL_OFFSET = 10;
+export const TAG_HORIZONTAL_OFFSET = 20;
